@@ -12,14 +12,14 @@
 .store,
 .register {
   display: flex;
-  height: 90vh;
+  height: 60vh;
   align-items: center;
   justify-content: center;
   font-size: 3rem;
 }
 
 .bills {
-  background-image: url('../public/images/background/img-2.jpg');
+  background-image: url('../public/images/background/img-9.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

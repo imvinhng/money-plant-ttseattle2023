@@ -39,6 +39,8 @@ function Goals() {
       <h1 className='goals'>GOALS</h1>
       <Header />
       <ToDoList toDoList={toDoList}  handleToggle={handleToggle} handleFilter={handleFilter}/>
+      <p>How it works: Create a new goal by entering it below. Your goals will appear above. Click on a goal to complete it, and gain points.</p>
+      <p>The more points you earn, the faster your garden will grow!</p>
       <ToDoForm addTask={addTask}/>
       <Footer />
     </div>

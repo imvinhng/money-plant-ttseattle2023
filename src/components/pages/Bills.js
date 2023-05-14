@@ -7,7 +7,7 @@ export default function Bills() {
   return (
     <div>
       <h1 className='bills'>BILLS</h1>
-      <h2 className="pieChart"></h2>
+      <h2>Sorry we're still working on it ^-^</h2>
       <Footer />
     </div>
   );
