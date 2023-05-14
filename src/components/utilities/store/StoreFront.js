@@ -45,7 +45,7 @@ function storefront() {
               src='images/plants/graphics/pot-hydrangea.jpg'
               text='Learn to adapt to every situation'
               label='Hydrangea'
-              path='/sign-up'
+              path='/store'
             />
             
           </ul>
@@ -86,13 +86,13 @@ function storefront() {
               src='images/animals/collect05.png'
               text='Seek inner peace admist the storm'
               label='Eh'
-              path='/sign-up'
+              path='/register'
             />
             <CardItem
               src='images/animals/collect06.png'
               text='Learn to adapt to every situation'
               label='Eeble Gleeble'
-              path='/sign-up'
+              path='/register'
             />
             
           </ul>

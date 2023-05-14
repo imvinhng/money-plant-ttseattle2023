@@ -7,7 +7,7 @@ import Goals from './components/pages/Goals';
 import Bills from './components/pages/Bills';
 import Progress from './components/pages/Progress';
 import Store from './components/pages/Store';
-import SignUp from './components/pages/SignUp';
+import Register from './components/pages/Register';
 import Navbar from './components/utilities/extras/Navbar';
 //css
 import './App.css';
@@ -23,7 +23,7 @@ function App() {
           <Route path='/Goals' element={<Goals/>} />
           <Route path='/Progress' element={<Progress/>} />
           <Route path='/Store' element={<Store/>} />
-          <Route path='/sign-up' element={<SignUp/>} />
+          <Route path='/Register' element={<Register/>} />
         </Routes>
       </Router>
     </>

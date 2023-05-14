@@ -46,7 +46,7 @@ export default function Achievements() {
               src='images/plants/graphics/pot-hydrangea.jpg'
               text='Learn to adapt to every situation'
               label='Hydrangea'
-              path='/sign-up'
+              path='/store'
             />
             
           </ul>
@@ -81,19 +81,19 @@ export default function Achievements() {
               src='images/animals/collect04.png'
               text='A bit of confidence goes a long way'
               label='Ooga Booga'
-              path='/products'
+              path='/store'
             />
             <CardItem
               src='images/animals/collect05.png'
               text='Seek inner peace admist the storm'
               label='Eh'
-              path='/sign-up'
+              path='/store'
             />
             <CardItem
               src='images/animals/collect06.png'
               text='Learn to adapt to every situation'
               label='Eeble Gleeble'
-              path='/sign-up'
+              path='/store'
             />
             
           </ul>
