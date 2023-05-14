@@ -9,6 +9,7 @@
 .bills,
 .goals,
 .progress,
+.store,
 .sign-up {
   display: flex;
   height: 90vh;
@@ -37,6 +38,15 @@
 
 .progress {
   background-image: url('../public/images/img-3.jpg');
+  background-position: center;
+  background-size: fill;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.store {
+  background-image: url('../public/images/img-5.jpg');
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;

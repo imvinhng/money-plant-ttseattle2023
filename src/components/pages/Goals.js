@@ -1,6 +1,14 @@
-import React from 'react';
+import React, {useState} from 'react';
 import '../../App.css';
 
-export default function Goals() {
-  return <h1 className='goals'>GOALS</h1>;
+function Goals() {
+
+  return (
+   <div>
+      <h1 className='goals'>GOALS</h1>
+      
+  </div>
+  );
 }
+
+export default Goals;
