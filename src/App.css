@@ -19,7 +19,7 @@
 }
 
 .bills {
-  background-image: url('../public/images/img-2.jpg');
+  background-image: url('../public/images/background/img-2.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -28,7 +28,7 @@
 }
 
 .goals {
-  background-image: url('../public/images/img-1.jpg');
+  background-image: url('../public/images/background/img-1.jpg');
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
@@ -37,7 +37,7 @@
 }
 
 .progress {
-  background-image: url('../public/images/img-3.jpg');
+  background-image: url('../public/images/background/img-3.jpg');
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
@@ -46,7 +46,7 @@
 }
 
 .store {
-  background-image: url('../public/images/img-5.jpg');
+  background-image: url('../public/images/background/img-5.jpg');
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
@@ -55,7 +55,7 @@
 }
 
 .sign-up {
-  background-image: url('../public/images/img-8.jpg');
+  background-image: url('../public/images/background/img-8.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

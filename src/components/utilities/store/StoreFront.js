@@ -1,6 +1,6 @@
 import React from 'react';
 import './StoreFront.css';
-import CardItem from './CardItem';
+import CardItem from '../home/CardItem';
 
 function storefront() {
   return (

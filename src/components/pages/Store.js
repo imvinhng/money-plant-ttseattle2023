@@ -1,8 +1,8 @@
 import React from 'react';
 import '../../App.css';
 //components
-import StoreFront from '../utilities/StoreFront';
-import Footer from '../utilities/Footer';
+import StoreFront from '../utilities/store/StoreFront';
+import Footer from '../utilities/extras/Footer';
 
 
 export default function Store() {

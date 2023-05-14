@@ -1,14 +1,22 @@
 import React from 'react';
 import '../../App.css';
 //components
-import Footer from '../utilities/Footer';
+import Achievements from '../utilities/progress/Achievements';
+import Plant from '../utilities/progress/Plant';
+import ExperienceBar from '../utilities/progress/ExperienceBar';
+import Footer from '../utilities/extras/Footer';
 
-export default function Progress() {
+function Progress() {
   return (
     <div>
       <h1 className='progress'>Progress</h1>
-      <h2>Sorry we're still working on it ^-^</h2>
+      <Plant />
+      <ExperienceBar />
+      <Achievements />
+      {/* <StoreFront /> */}
       <Footer />
     </div>
   );
 }
+
+export default Progress;

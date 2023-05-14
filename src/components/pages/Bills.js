@@ -1,7 +1,7 @@
 import React from 'react';
 import '../../App.css';
 //components
-import Footer from '../utilities/Footer';
+import Footer from '../utilities/extras/Footer';
 
 export default function Bills() {
   return (

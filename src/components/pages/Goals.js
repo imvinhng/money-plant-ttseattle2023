@@ -1,12 +1,13 @@
 import React, {useState} from 'react';
 import data from "../../data.json";
-import '../../App.css';
-import '../utilities/Goals.css';
 //components
-import Header from "../utilities/Header";
-import ToDoList from "../utilities/ToDoList";
-import ToDoForm from "../utilities/ToDoForm";
-import Footer from '../utilities/Footer';
+import Header from "../utilities/goals/Header";
+import ToDoList from "../utilities/goals/ToDoList";
+import ToDoForm from "../utilities/goals/ToDoForm";
+import Footer from '../utilities/extras/Footer';
+//css
+import '../../App.css';
+import '../utilities/goals/Goals.css';
 
 function Goals() {
 

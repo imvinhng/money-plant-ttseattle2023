@@ -1,12 +1,15 @@
+//react origin
 import React from 'react';
-import Navbar from './components/utilities/Navbar';
-import Home from './components/pages/Home';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+//components
+import Home from './components/pages/Home';
 import Goals from './components/pages/Goals';
 import Bills from './components/pages/Bills';
 import Progress from './components/pages/Progress';
 import Store from './components/pages/Store';
 import SignUp from './components/pages/SignUp';
+import Navbar from './components/utilities/extras/Navbar';
+//css
 import './App.css';
 
 function App() {
