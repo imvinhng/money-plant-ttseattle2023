@@ -1,7 +1,3 @@
-div {
-    text-align: center;
-}
-
 body {
     margin: 0 auto;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -22,10 +18,21 @@ code {
     background-color: beige;
     width: 60%;
     margin:auto;
+    text-align: center;
 }
 .strike {
     text-decoration: line-through;
 }
+
+/* .todo-div {
+    flex: 1;
+    border: 1px solid black;
+     display: flex;
+    margin: 10px auto;
+    align-items: center;
+    background-color:red; 
+
+} */
 
 
 .todo-header {
