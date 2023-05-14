@@ -5,7 +5,7 @@ import './Cards.css';
 function Cards() {
   return (
     <div className='cards'>
-      <h1>Check out these EPIC Plants!</h1>
+      <h1>Check out the EPIC plants you can grow!</h1>
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
@@ -25,7 +25,7 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='images/plants/real/real-sunflower.jpg'
-              text='Always look toward new oppurtunities'
+              text='Always look towards new opportunities'
               label='Sunflower'
               path='/store'
             />

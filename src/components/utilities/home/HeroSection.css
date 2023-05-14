@@ -6,9 +6,15 @@ video {
   z-index: -1;
 }
 
+.hero-img {
+  position: absolute;
+  left: 0;
+  top: 300px;
+}
+
 .hero-container {
   /* background: url('../../public/images/img-home.jpg') center center/cover no-repeat; */
-  height: 100vh;
+  height: 60vh;
   width: 100%;
   display: flex;
   flex-direction: column;
