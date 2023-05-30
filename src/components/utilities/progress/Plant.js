@@ -1,7 +1,9 @@
 import React from 'react';
 import {useState, useEffect} from 'react';
+//css
+// import './Progresss.css';
 
-export default function Plant() {
+function Plant() {
 
   const [currentIndex, setCurrentIndex] = useState(0);
 
@@ -23,9 +25,10 @@ export default function Plant() {
   }, [currentIndex]);
   
   return (
-    <div>
-      <h1 style={{margin:'20px'}}>Grow your plant achieving your set goals</h1>
+    <div className='plant-div'>
       <img src={plantType[currentIndex]} height="480"/>
     </div>
   );
 }
+
+export default Plant;

@@ -65,4 +65,8 @@ code {
     color: white;
     opacity: 1; /* Firefox */
   }
-  
+
+
+p {
+    text-align: center;
+}

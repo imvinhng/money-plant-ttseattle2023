@@ -1,0 +1,12 @@
+.piechart {
+    background-image: url('../../../../public/images/pie-chart/piechart.jpg');
+    background-position: center;
+    background-size:auto;
+    background-repeat: no-repeat;
+    color: #fff;
+
+    display: flex;
+    height: 60vh;
+    align-items: center;
+    justify-content: center;
+  }

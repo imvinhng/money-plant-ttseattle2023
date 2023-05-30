@@ -1,11 +1,11 @@
 import React from 'react';
-import './Achievements.css';
 import CardItem from '../home/CardItem';
+//css
+import './Progress.css';
 
 export default function Achievements() {
   return (
     <div>
-      <h1 style={{margin:'20px'}}>Achievements goes here</h1>
       <h1>Check out the EPIC plants you can grow!</h1>
       <div className='achievement__container'>
         <div className='achievement__wrapper'>

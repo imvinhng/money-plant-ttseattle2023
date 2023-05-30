@@ -6,7 +6,7 @@ import '../../../App';
 function HeroSection() {
   return (
     <div className='hero-container'>
-      <video src='/videos/video-1.mp4' autoPlay loop muted />
+      <video src='/videos/video-2.mp4' autoPlay loop muted />
       <h1>PLANTING THE SEEDS</h1>
       <p>Set goals and watch your garden grow</p>
       <div className='hero-btns'>
